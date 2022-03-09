@@ -3,6 +3,9 @@
 int main(void)
 {
 
-	printf("hello world\n");
+	printf("malk dayr haka asahbi\n");
 }
-	
+
+   sir layrdi 3la mok 
+   
+
